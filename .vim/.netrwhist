@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/gjq/.xmonad'
+let g:netrw_dirhist_2='/home/gjq/work/fh119/src/source'
+let g:netrw_dirhist_3='/data/project/FH119/V01/front_end/simulation/bist/src'
+let g:netrw_dirhist_4='/home/gjq/work/acq_proj/src/debussyLog'
+let g:netrw_dirhist_5='/home/gjq/work/acq_proj/src'
+let g:netrw_dirhist_6='/home/project/IP111/V01/front_end/digital/fpga/bin'
